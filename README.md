@@ -1,15 +1,18 @@
-### Hi there, I'm Piyush - aka [PiyushThePal][website] 👋
+## Hi there, I'm Piyush - aka [PiyushThePal][website] 👋
 
-[![Website](https://img.shields.io/website?label=piyushpaliwal.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://piyushpaliwal.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PiyushThePal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<!-- [![Website](https://img.shields.io/website?label=piyushpaliwal.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://piyushpaliwal.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PiyushThePal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Hacker, Developer, and Gamer!!
+### I'm a Hacker, Developer, and Gamer!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with Anyone & Everyone.
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums -->
+
+---
 
 ### Connect with me:
 
