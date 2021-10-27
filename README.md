@@ -1,5 +1,5 @@
-## Hi there, I'm Piyush - aka [PiyushThePal][website] 👋
-
+## Hola!, I'm Piyush - aka [PiyushThePal][website] 👋
+<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./Hola!.png" /></a></p> -->
 <!-- [![Website](https://img.shields.io/website?label=piyushpaliwal.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://piyushpaliwal.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PiyushThePal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
@@ -17,7 +17,6 @@
 ### Connect with me:
 
 [<img align="left" alt="piyushpaliwal.com" width="22px" src="https://img.icons8.com/ios-glyphs/90/ffffff/globe--v1.png" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="PiyushThePal | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="PiyushThePal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="PiyushThePal | Instagram" width="22px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />][instagram]
@@ -31,6 +30,9 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
