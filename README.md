@@ -1,7 +1,4 @@
-## Hola!, I'm Piyush - aka [PiyushThePal][website] 👋
-<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./Hola!.png" /></a></p> -->
-<!-- [![Website](https://img.shields.io/website?label=piyushpaliwal.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://piyushpaliwal.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PiyushThePal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<p align="center"><a href="https://piyushpaliwal.com"><img width="80%" src="./name2.png" /></a></p>
 
 ### I'm a Hacker, Developer, and Gamer!!
 
