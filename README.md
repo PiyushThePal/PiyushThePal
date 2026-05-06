@@ -28,9 +28,9 @@
 
 ### Platforms
 
-`HackTheBox` · `TryHackMe` · `HackerOne` · `Bugcrowd`
-
-> Profile links coming soon — drop them in by replacing this line.
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/148271)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/piyush17)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/piyushthepal?type=user)
 
 ---
 
@@ -66,12 +66,6 @@
 <a target="_blank" href="https://medium.com/@piyush-paliwal"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyush-paliwal/1" alt="Recent Article 1"></a>
 <a target="_blank" href="https://medium.com/@piyush-paliwal"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyush-paliwal/2" alt="Recent Article 2"></a>
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### GitHub stats
-
-[![Piyush GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyushThePal&show_icons=true&theme=dark&hide_border=true)](https://github.com/PiyushThePal)
 
 [website]: https://piyushpaliwal.com
 [twitter]: https://twitter.com/PiyushThePal
